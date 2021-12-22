@@ -1,0 +1,157 @@
+
+/*MENO*/
+.header_background{
+    background-color: rgb(96, 170, 239);
+    height: 170px;
+}
+
+.logo{
+    position: absolute;
+    bottom: 75%;
+    left: 8%;
+}
+
+.titulo{
+    position: absolute;
+    top: 5%;
+    left: 20%;
+}
+
+.barra_pesquisa{
+    position: absolute;
+    top: 8%;
+    left: 35%;
+    background: white;
+    height: 30px;
+    display: flex ;
+    align-items: center;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.pesquisar-txt{
+    border: none;
+    background: none;
+    outline: none;
+    font-size: 15px;
+}
+
+.cadastro-login{
+    position: absolute;
+    top: 8%;
+    left: 60%;
+    font-size: 24px;
+}
+
+.entrar-cadastrar{
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.foto-login{
+    position: absolute;
+    left: -55%;
+    bottom: 10%;
+    width: 50px;
+}
+
+.foto-atendimento{
+    position: absolute;
+    width: 50px;
+    top: 8%;
+    left: 70%;
+}
+
+.foto-carrinho{
+    position: absolute;
+    width: 50px;
+    top: 8%;
+    left: 75%;
+}
+
+.foto-location{
+    position: absolute;
+    width: 50px;
+    left: 80%;
+    top: 8%;
+}
+
+.lista-icones{
+    list-style: none;
+}
+
+body{
+    background-color: rgb(243, 243, 243);
+    width: 100%;
+    height: 100%;
+    margin: none;
+    text-decoration: none;
+    justify-content: center;
+}
+
+.main{
+    margin: 0 auto;
+    width: 980px;
+    position: relative;
+}
+
+#menu{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: 50px;
+    background-color:rgb(253, 47, 28)
+}
+
+.menu_texto{
+    text-align: center;   
+    word-spacing: 10px;
+    padding-top: 12px;
+}
+
+.linkMenu{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color:white;
+}
+
+/*OFERTAS*/
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.ctd-of{
+    width: 400px;
+    height: 450px;
+    border: 1px solid lightgray;
+    background-color:white;
+}
+
+.ctd-of2{
+    width: 400px;
+    height: 450px;
+    border: 1px solid lightgray;
+    background-color:white;
+}
+
+.ph-1{
+    width: 20rem;
+    margin-left: 10%;
+}
+
+p{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}

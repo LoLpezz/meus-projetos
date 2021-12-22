@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro</title>
+</head>
+<body>
+    
+    <div>
+         <h1>Cadastro de Eventos</h1>
+         <p>Informe a data do evento</p>
+         <br>
+    </div>
+<form>
+    <fieldset>
+        <div>
+            <label>Data</label>
+            <input type='datetime-local' name='data' id='data'>
+        </div>
+    </fieldset>
+</form>
+
+<form>
+    <fieldset>
+        <div>
+            <label>Nome</label>
+            <input type="text" name="name" id="name">
+        </div>
+ 
+        <div>
+            <label>Sobrenome</label>
+            <input type="text" name="sobrenome" id="sobrenome"> 
+        </div>
+    </fieldset>
+    <div>
+        <label>Idade</label>
+        <input type="number" name="idade" id="idade">
+    </div>
+
+    <div>
+        <label>Você é participante ou palestrante?</label>
+        <label>
+            <input type='radio' name='Participante, Palestrante' value="Participante">Participante
+        </label>
+        <label>
+            <input type="radio" name='Participante, Palestrante' value="Palestrante">Palestrante
+        </label>
+    </div>
+
+</form>
+
+</body>
+</html>
