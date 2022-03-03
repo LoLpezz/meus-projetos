@@ -16,5 +16,5 @@ O objetivo do projeto foi criar um site e-commerce fictício usando tecnologias 
 </ul>
 
 <h3>Autor</h3>
-<p>Maicon Lopes<br>E-mail: maiconlopes20@gmail.com</p>
+<p>Maicon Lopes<br>E-mail: <a href="https://www.google.com/intl/pt/gmail/about/">maiconlopes20@gmail.com</a></p>
 <p>Linkedin: https://www.linkedin.com/in/maicon-lopes-573828210/</p>
