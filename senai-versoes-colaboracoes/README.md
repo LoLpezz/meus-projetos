@@ -14,3 +14,7 @@ O objetivo do projeto foi criar um site e-commerce fictício usando tecnologias 
   <li>Git</li>
   <li>Visual Studio Code</li>
 </ul>
+
+<h3>Autor</h3>
+<p>E-mail: maiconlopes20@gmail.com</p>
+<p>Linkedin: https://www.linkedin.com/in/maicon-lopes-573828210/</p>
